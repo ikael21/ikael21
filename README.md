@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton
 - 👀 I’m interested in **Python Django!**
-- 🌱 I’m currently study at School 21 (Ecole 42) and learning C/C++
+- 🌱 I currently study at School 21 (Ecole 42) and learning C/C++
 ## HOW TO REACH ME
 - email: chtotib.yudin@mail.ru
 

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anton
 - 👀 I’m interested in **Ruby (Ruby On Rails)!**
 - 🌱 I currently study at School 21 (Ecole 42)
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/ikael)](https://github.com/JaeSeoKim/badge42)
 
 ## HOW TO REACH ME
 - email: chtotib.yudin@mail.ru

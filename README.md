@@ -1,13 +1,8 @@
-- 👋 Hi, I’m Anton
-- 👀 I’m interested in **Ruby (Ruby On Rails)!**
-- 🌱 I currently study at School 21 (Ecole 42)
+# HOW TO REACH ME
+<a href="https://t.me/ikaelFess"><img align='center' src='https://user-images.githubusercontent.com/83520969/168468570-a119a8da-3a2e-4846-ad6a-2d0bb4548946.png' width='50' height='50'></a>
+<a href="mailto:chtotib.yudin@mail.ru"><img align='center' src='https://user-images.githubusercontent.com/83520969/168468315-8e454bc7-6a1a-45bd-aed8-098cebc3177c.png' width='50' height='50'></a>
 
-## HOW TO REACH ME
-- **email**: chtotib.yudin@mail.ru
-- **telegram**: https://t.me/ikaelFess
-
-
-<img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'> </br>
+<img align='center' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200'> </br>
 <img src="https://img.shields.io/badge/-Ruby-710bd2?style=for-the-badge&logo=Ruby&logoColor=red"/>
 <img src="https://img.shields.io/badge/-C-649bd2?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C++-00599d?style=for-the-badge&logo=CPLUSPLUS&logoColor=white"/>
@@ -21,3 +16,4 @@
 ikael21/ikael21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
